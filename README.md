@@ -8,7 +8,7 @@ dengan dunia IT khususnya di bagian website developer. Saat ini saya masih sedan
 - Javascript
 - Vue Js
 
-## Social Media Link :
+## Social Media Link
 
 - [Discord](https://discord.com/users/Fannn#6063)
 - [Facebook](https://facebook.com/Fannn04)
