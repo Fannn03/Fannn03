@@ -7,6 +7,7 @@ dengan dunia IT khususnya di bagian website developer. Saat ini saya masih sedan
 - Laravel 8
 - Javascript
 - Vue Js
+- DiscordJs
 
 ## Social Media Link
 
