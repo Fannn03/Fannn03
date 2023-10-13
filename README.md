@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-Hi 👋, I'm Irfan. A Junior BE NodeJS that interested with something new.
+Hi 👋, I'm Irfan. A Junior Backend NodeJS that interested with something new.
 
 - 🌱 I’m currently learning **BE NodeJS & Typescript**
 - 📫 How to reach me **fann.fann771@gmail.com**
