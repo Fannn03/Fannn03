@@ -3,9 +3,7 @@
 
 Hi 👋, I'm a Backend Engineer that passioned in Javascript & NodeJS. Interested with something new, also
 currently learning Typescript. As a Backend Engineer i have responsibility to development and maintenance
-any Backend application services. I focused building RESTful API which is part of my tasks, implemented
-Clean Architecture is very important for me, it would makes it easier when i'm collaborating with other
-teams.
+any Backend application services.
 
 - 🌱 I’m currently learning **BE NodeJS & Typescript**
 - 📫 How to reach me **fann.fann771@gmail.com**
