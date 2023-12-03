@@ -1,9 +1,12 @@
 
 # 💫 About Me:
 
-Hi 👋, I'm a Backend Engineer that passioned in Javascript & NodeJS. Interested with something new, also
-currently learning Typescript. As a Backend Engineer i have responsibility to development and maintenance
-any Backend application services.
+I'm passionate Backend Engineer skilled in NodeJS, and Javascript. I have a high curiosity for everything new
+and exciting and currently learning about Typescript. During my time at Alterra Academy. I learned a bunch
+about Backend Enginering. Now, I can make RESTful API's, work with microservices, and set up projects on
+AWS using tools like Github Action and Docker for continuos integration. I enjoy tackling complex problems
+and creating clean code, and scalable backend solutions. Currently I'm open for oppurtunities and i'am
+excited to be part of your team and contribute my skills.
 
 - 🌱 I’m currently learning **BE NodeJS & Typescript**
 - 📫 How to reach me **fann.fann771@gmail.com**
