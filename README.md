@@ -2,9 +2,7 @@
 # 💫 About Me:
 
 I'm passionate Backend Engineer skilled in NodeJS, and Javascript. I have a high curiosity for everything new
-and exciting and currently learning about Typescript. During my time at Alterra Academy. I learned a bunch
-about Backend Enginering. Now, I can make RESTful API's, work with microservices, and set up projects on
-AWS using tools like Github Action and Docker for continuos integration. I enjoy tackling complex problems
+and exciting and currently learning about Typescript. I enjoy tackling complex problems
 and creating clean code, and scalable backend solutions. Currently I'm open for oppurtunities and i'am
 excited to be part of your team and contribute my skills.
 
